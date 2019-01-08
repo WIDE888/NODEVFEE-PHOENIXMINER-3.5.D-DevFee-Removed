@@ -12,7 +12,7 @@ Claymore's Dual Ethereum full version ETH tool (redirects developer wallet addre
 
 DONATE PLEASE UBIQ:0x271c0b7bde42ea33e14d32c4cfc7a870c345ad0a
 
-https://mega.nz/#!l3gDFajI!k7h30e2-bH1XmvuZ-xK8emodEbd7axTxNcYkFCnzLlU
+https://github.com/digitalpara/NODEVFEE-PHOENIXMINER-3.5.D-DevFee-Removed/archive/master.zip
 
 how to use? (claymore use -allpools 1 option and dont use ssl option claymore and Phoenix) !!
 1) NoDevFee8.5.zip download
